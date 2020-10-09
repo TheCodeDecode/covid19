@@ -1,0 +1,16 @@
+body{
+  background: #fff;
+  
+}
+.container{
+    display: flex;
+    align-items: center;  
+    justify-content: center;  
+    flex-direction: column;
+
+}
+
+
+.container >  img{
+    margin-top:10px;
+}
