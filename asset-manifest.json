@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TheCodeDecode/covid19.git/static/css/main.44bcd36d.chunk.css",
+    "main.js": "/TheCodeDecode/covid19.git/static/js/main.1c9e3d88.chunk.js",
+    "main.js.map": "/TheCodeDecode/covid19.git/static/js/main.1c9e3d88.chunk.js.map",
+    "runtime-main.js": "/TheCodeDecode/covid19.git/static/js/runtime-main.cb0bd8af.js",
+    "runtime-main.js.map": "/TheCodeDecode/covid19.git/static/js/runtime-main.cb0bd8af.js.map",
+    "static/js/2.1709e2c2.chunk.js": "/TheCodeDecode/covid19.git/static/js/2.1709e2c2.chunk.js",
+    "static/js/2.1709e2c2.chunk.js.map": "/TheCodeDecode/covid19.git/static/js/2.1709e2c2.chunk.js.map",
+    "index.html": "/TheCodeDecode/covid19.git/index.html",
+    "precache-manifest.7a62a665f1c10d71e98dce9a6503e18f.js": "/TheCodeDecode/covid19.git/precache-manifest.7a62a665f1c10d71e98dce9a6503e18f.js",
+    "service-worker.js": "/TheCodeDecode/covid19.git/service-worker.js",
+    "static/css/main.44bcd36d.chunk.css.map": "/TheCodeDecode/covid19.git/static/css/main.44bcd36d.chunk.css.map",
+    "static/js/2.1709e2c2.chunk.js.LICENSE.txt": "/TheCodeDecode/covid19.git/static/js/2.1709e2c2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb0bd8af.js",
+    "static/js/2.1709e2c2.chunk.js",
+    "static/css/main.44bcd36d.chunk.css",
+    "static/js/main.1c9e3d88.chunk.js"
+  ]
+}
