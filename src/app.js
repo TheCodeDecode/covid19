@@ -33,8 +33,8 @@ class App extends React.Component {
         <img src='https://i.ibb.co/7QpKsCX/image.png' className='mt-2'/>
         <Cards  data ={data}/>
         <CountryPicker  handleCountryChange={this.handleCountryChange}/>
-        <Chart data={data} country={country} />
-       
+        <Chart data={data} country={country ? country : 'India'} />
+       <p className={styles.spacing}> developed by &copy; Akshay Kumar</p>
       </div>
     );
   }

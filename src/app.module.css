@@ -1,3 +1,6 @@
+body *{
+  font-family: 'Oswald', sans-serif;
+}
 body{
   background: #fff;
   
@@ -10,7 +13,11 @@ body{
 
 }
 
-
 .container >  img{
     margin-top:10px;
+    max-width: 250px;
+}
+.spacing{
+  margin-top:30px;
+  color:#000000;
 }
